@@ -13,18 +13,6 @@
 
 /*Css Luis Felipe */
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@800&display=swap');
-
-
-* {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-      background-color: black;  
-      
- 
-}
-
 .logo__Star{
 
 }
@@ -98,21 +86,21 @@ margin-bottom: 5px;
 
 .contato{
 display: flex;
-justify-content: space-between;
-margin-left: 10%;
-margin-right: 10%;
+justify-content: center;
+gap: 70px;
+
 
 }
 
 .Contato__imagem{
-
+    padding-left: 40px;
+width: 50%;
 }
 
 .contato__texto{
     margin-top: 200px;
     color: white;
 }
-
 
 -------------/* Final CSS Luis Felipe*/
 
