@@ -103,8 +103,30 @@ width: 50%;
 }
 
 -------------/* Final CSS Luis Felipe*/
+-------------/*inicio css Rebelde*/
+
+.paragrafo02{
+    display: flex;
+    color: white;
+    display: flex;
+ 
+   
+
+}
+.paragrafo__02__titulo{
+   
 
 
+}
+
+
+
+.paragrafo__02__texto{
+
+
+}
+
+/*Final CSS Rebelde*/
 
   .menu {
       list-style: none;
