@@ -1,39 +1,4 @@
-*{
-    
-    
-}
 
-.center{
-
-}
-
-.logo{
-
-}
-
-.menu{
-
-}
-
-.paragrafo__01{
-
-}
-
-.paragrafo__01__titulo{
-
-}
-
-.paragrafo__01__texto{
-
-}
-
-.contato{
-
-}
-
-.contato_imagem{
-
-}
 
   @import url('https://fonts.googleapis.com/css2?family=Inter:wght@800&display=swap');
 
@@ -44,6 +9,114 @@
       box-sizing: border-box;
       background-color: black;
   }
+
+
+/*Css Luis Felipe */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@800&display=swap');
+
+
+* {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      background-color: black;  
+      
+ 
+}
+
+.logo__Star{
+
+}
+    
+.center__header{
+    display: flex;     
+    justify-content: center;
+    gap: 40px;
+    
+}
+.menus{
+display: flex;
+
+}
+.links__header{
+    
+    color: white;
+    text-decoration: none;
+    font-weight: bolder 800px;    
+    font-size: 40px;
+    font-family:'Inter', sans-serif;
+    text-transform: uppercase;
+    padding: 40px 25px;
+}
+.links__header:hover{
+    color: yellow;
+}
+
+.paragrafo__index{
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 30px;
+   gap: 40px;
+}
+
+.paragrafo__index__texto__titulo{
+    gap: 30px;
+    width: 50%;
+    height: 50%;
+}
+
+.paragrafo__index__titulo{
+
+color: white;
+font-weight: bolder 900px;    
+font-size: 40px;
+font-family:'Inter', sans-serif;
+text-transform: uppercase;
+line-height: 48px;
+font-style: normal;
+margin-bottom: 5px;
+
+
+}
+
+.paragrafo__index__texto{
+   
+    color: white;
+    font-weight:300px;    
+    font-size: 24px;
+    font-family:'Inter', sans-serif;
+    line-height: 29px;  
+}  
+
+.paragrafo__index__imagem{
+ 
+}
+
+.contato{
+display: flex;
+justify-content: space-between;
+margin-left: 10%;
+margin-right: 10%;
+
+}
+
+.Contato__imagem{
+
+}
+
+.contato__texto{
+    margin-top: 200px;
+    color: white;
+}
+
+
+-------------/* Final CSS Luis Felipe*/
+
+
 
   .menu {
       list-style: none;
