@@ -106,15 +106,15 @@ width: 50%;
 -------------/*inicio css Rebelde*/
 
 .paragrafo02{
-    display: flex;
-    color: white;
-    
- 
-   
+    display: flex; 
+    color: white;    
+    padding: 10%;
+    justify-content: center; 
 
 }
+
 .paragrafo__02__titulo{
-   
+   width: 50%;
 
 
 }
@@ -125,6 +125,14 @@ width: 50%;
 
 
 }
+.foto_rebelde_02{
+    
+}
+    
+ 
+   
+
+
 
 /*Final CSS Rebelde*/
 
