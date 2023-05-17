@@ -128,6 +128,113 @@ width: 50%;
 
 /*Final CSS Rebelde*/
 
+
+/*Início CSS Sith*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+
+.menu {
+    list-style: none;
+    padding: 0;
+    display: inline-block;
+    position: relative;
+    font-size: 40px;
+    top: 57px;
+
+}
+
+.menu a {
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 36px;
+    width: 107px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 48px;
+    font-family: 'Inter', sans-serif;
+}
+
+.menu a:hover {
+    color: #E2CD0E;
+}
+
+.center {
+    display: flex;
+}
+
+.paragrafo_1 {
+    color: aliceblue;
+}
+
+.paragrafo_1_titulo {
+    font-weight: bold;
+    font-size: 40px;
+    position: absolute;
+    left: 95px;
+    top: 168px;
+}
+
+.paragrafo_1_texto {
+    font-size: 24px;
+    width: 695px;
+    height: 237px;
+    position: absolute;
+    left: 95px;
+    top: 237px;
+
+}
+
+.paragrafo_2 {
+    color: aliceblue;
+}
+
+.paragrafo_2_titulo {
+    font-weight: bold;
+    font-size: 40px;
+    position: absolute;
+    top: 632px;
+    left: 800px;
+}
+
+.paragrafo_2_texto {
+    font-size: 24px;
+    width: 695px;
+    height: 328px;
+    position: absolute;
+    top: 715px;
+    left: 800px;
+}
+
+.logo_starwars {
+    width: 190px;
+    height: 117px;
+}
+
+.imagem_sith1 {
+    width: 600px;
+    height: 400px;
+    position: absolute;
+    left: 95px;
+    top: 614px;
+}
+
+.imagem_sith2 {
+    width: 462px;
+    height: 399px;
+    position: absolute;
+    left: 916px;
+    top: 166px;
+}
+
+/*Final CSS Sith*/
+
+
   .menu {
       list-style: none;
       padding: 0;
